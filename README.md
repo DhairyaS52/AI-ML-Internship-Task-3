@@ -132,8 +132,6 @@ Task-3-Linear-Regression/
 └── README.md
 ```
 
-Screenshots can also be added if required.
-
 ## How to Run
 
 The project was created and tested using Google Colab.
